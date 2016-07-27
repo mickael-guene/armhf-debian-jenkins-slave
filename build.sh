@@ -3,7 +3,7 @@
 ##first install needed packages
 apt-get update && apt-get upgrade -y && apt-get install -y --no-install-recommends \
     openssh-server \
-    openjdk-7-jdk sudo
+    openjdk-8-jdk sudo
 apt-get clean
 
 ##tweak ssh

@@ -1,4 +1,4 @@
-FROM mickaelguene/armhf-debian-dev:jessie
+FROM mickaelguene/armhf-debian-dev:testing
 
 MAINTAINER Mickael Guene <mickael.guene@st.com>
 
